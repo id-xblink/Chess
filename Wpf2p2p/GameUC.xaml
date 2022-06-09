@@ -1,0 +1,555 @@
+﻿<UserControl x:Class="Wpf2p2p.GameUC"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:md="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             d:DesignWidth="1280" d:DesignHeight="720"
+             TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+             Background="{DynamicResource MaterialDesignPaper}"
+             FontFamily="pack://application:,,,/MaterialDesignThemes.Wpf;component/Resources/Roboto/#Roboto">
+    <Grid Background="{DynamicResource PrimaryHueMidBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <!--Надпись-->
+        <TextBlock Grid.Row="0" Text="Шахматная партия" Margin="15" FontSize="30" HorizontalAlignment="Center" Foreground="{DynamicResource PrimaryHueMidForegroundBrush}"/>
+        <Grid Grid.Row="1" Background="{DynamicResource MaterialDesignPaper}">
+            <!--Меню-->
+            <Grid x:Name="GMenu" Visibility="Visible">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <!--Надпись-->
+                <TextBlock Margin="15" Grid.Row="0" Text="Выбор режима" HorizontalAlignment="Center" FontSize="28"/>
+                <!--Выбор режима-->
+                <Grid Grid.Row="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="auto"/>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Grid.Column="0" Margin="0 25" Text="Двойной" HorizontalAlignment="Center" FontSize="32" VerticalAlignment="Center" TextDecorations="Underline"/>
+                        <TextBlock Grid.Column="1" Margin="0 25" Text="Одиночный" HorizontalAlignment="Center" FontSize="32" VerticalAlignment="Center" TextDecorations="Underline"/>
+                        <TextBlock Grid.Column="2" Margin="0 25" Text="По сети" HorizontalAlignment="Center" FontSize="32" VerticalAlignment="Center" TextDecorations="Underline"/>
+                    </Grid>
+                    <Grid Grid.Row="1">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <Button Grid.Column="0" Padding="0" x:Name="BDuo" Width="150" Height="150" Click="BMenu_Click" Margin="20">
+                            <md:PackIcon Grid.Column="0" Kind="KeyboardOutline" Width="auto" Height="auto"/>
+                        </Button>
+                        <Button Grid.Column="1" Padding="0" x:Name="BSolo" Width="150" Height="150" Click="BMenu_Click" Margin="20">
+                            <md:PackIcon Grid.Column="0" Kind="Robot" Width="auto" Height="auto"/>
+                        </Button>
+                        <Button Grid.Column="2" Padding="0" x:Name="BNet" Width="150" Height="150" Click="BMenu_Click" Margin="20">
+                            <md:PackIcon Grid.Column="0" Kind="NetworkOutline" Width="auto" Height="auto"/>
+                        </Button>
+                    </Grid>
+                    <Grid Grid.Row="2">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <GroupBox Grid.Column="0" Header="Двойной" FontSize="28" Margin="20 30">
+                            <TextBlock Text="Шахматная партия между двумя игроками на одном компьютере" FontSize="20" TextWrapping="Wrap" Margin="5 5 0 0" TextTrimming="CharacterEllipsis"/>
+                        </GroupBox>
+                        <GroupBox Grid.Column="1" Header="Одиночный" FontSize="28" Margin="20 30" Height="auto">
+                            <TextBlock Text="Шахматная партия против компьютера от 1 по 5 уровень сложности" FontSize="20" TextWrapping="Wrap" Margin="5 5 0 0" TextTrimming="CharacterEllipsis"/>
+                        </GroupBox>
+                        <GroupBox Grid.Column="2" Header="По сети" FontSize="28" Margin="20 30">
+                            <TextBlock Text="Шахматная партия против другого игрока по сети, влияющая на рейтинг" FontSize="20" TextWrapping="Wrap" Margin="5 5 0 0" TextTrimming="CharacterEllipsis"/>
+                        </GroupBox>
+                    </Grid>
+                </Grid>
+            </Grid>
+            <!--Настройки-->
+            <Grid x:Name="GSetting" Visibility="Collapsed">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition/>
+                    <RowDefinition Height="auto"/>
+                </Grid.RowDefinitions>
+                <!--Надпись-->
+                <TextBlock Margin="15" Grid.Row="0" Text="Настройка игры" HorizontalAlignment="Center" FontSize="28"/>
+                <!--Настройки игры-->
+                <Grid Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="auto"/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="auto"/>
+                    </Grid.ColumnDefinitions>
+                    <!--Выбор бота-->
+                    <Grid x:Name="GBot" Grid.Column="0" IsEnabled="False">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <!--Барьер-->
+                        <Rectangle Grid.RowSpan="6" Width="3" HorizontalAlignment="Right" Fill="{DynamicResource PrimaryHueMidBrush}"/>
+                        <!--Надпись-->
+                        <TextBlock x:Name="TBDifficulty" Grid.Row="0" Margin="20 10" Text="Cложность бота" HorizontalAlignment="Center" FontSize="25" VerticalAlignment="Center" TextDecorations="Underline"/>
+                        <!--Пассивный-->
+                        <Button Grid.Row="1" Tag="1" Padding="0" Style="{DynamicResource MaterialDesignFlatButton}" Height="auto" Click="BPickBot_Click" Margin="20" HorizontalContentAlignment="Stretch">
+                            <StackPanel Orientation="Horizontal">
+                                <Image Source="assets/bot/passive.png"/>
+                                <TextBlock Margin="20 0 0 0" Text="Пассивная" FontSize="21" VerticalAlignment="Center" Foreground="{DynamicResource MaterialDesignBody}"/>
+                            </StackPanel>
+                        </Button>
+                        <!--Лёгкий-->
+                        <Button Grid.Row="2" Tag="2" Padding="0" Style="{DynamicResource MaterialDesignFlatButton}" Height="auto" Click="BPickBot_Click" Margin="20" HorizontalContentAlignment="Stretch">
+                            <StackPanel Orientation="Horizontal">
+                                <Image Source="assets/bot/easy.png"/>
+                                <TextBlock Margin="20 0 0 0" Text="Лёгкая" FontSize="21" VerticalAlignment="Center" Foreground="{DynamicResource MaterialDesignBody}"/>
+                            </StackPanel>
+                        </Button>
+                        <!--Средний-->
+                        <Button Grid.Row="3" Tag="3" Padding="0" Style="{DynamicResource MaterialDesignFlatButton}" Height="auto" Click="BPickBot_Click" Margin="20" HorizontalContentAlignment="Stretch">
+                            <StackPanel Orientation="Horizontal">
+                                <Image Source="assets/bot/medium.png"/>
+                                <TextBlock Margin="20 0 0 0" Text="Простая" FontSize="21" VerticalAlignment="Center" Foreground="{DynamicResource MaterialDesignBody}"/>
+                            </StackPanel>
+                        </Button>
+                        <!--Сложный-->
+                        <Button Grid.Row="4" Tag="4" Padding="0" Style="{DynamicResource MaterialDesignFlatButton}" Height="auto" Click="BPickBot_Click" Margin="20" HorizontalContentAlignment="Stretch">
+                            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                                <Image Source="assets/bot/hard.png"/>
+                                <TextBlock Margin="20 0 0 0" Text="Повышенная" FontSize="21" VerticalAlignment="Center" Foreground="{DynamicResource MaterialDesignBody}"/>
+                            </StackPanel>
+                        </Button>
+                        <!--Нечестный-->
+                        <Button Grid.Row="5" Tag="5" Padding="0" Style="{DynamicResource MaterialDesignFlatButton}" Height="auto" Click="BPickBot_Click" Margin="20" HorizontalContentAlignment="Stretch">
+                            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                                <Image Source="assets/bot/unfair.png"/>
+                                <TextBlock Margin="20 0 0 0" Text="Оптимальная" FontSize="21" VerticalAlignment="Center" Foreground="{DynamicResource MaterialDesignBody}"/>
+                            </StackPanel>
+                        </Button>
+                    </Grid>
+                    <!--Время и сеть-->
+                    <Grid Grid.Column="1">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <!--Контроль времени-->
+                        <Grid x:Name="GTime" Grid.Row="0" IsEnabled="False">
+                            <Grid.RowDefinitions>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="auto"/>
+                                <ColumnDefinition/>
+                                <ColumnDefinition/>
+                            </Grid.ColumnDefinitions>
+                            <!--Надпись-->
+                            <TextBlock Grid.Row="0" Grid.ColumnSpan="3" Margin="10" Text="Контроль времени" HorizontalAlignment="Center" FontSize="25" VerticalAlignment="Center" TextDecorations="Underline"/>
+                            <!--Переключатель-->
+                            <ToggleButton Grid.Row="1" Grid.Column="0"
+                                x:Name="TBTime" Style="{StaticResource MaterialDesignActionToggleButton}"
+                                Width="75" Height="75" Margin="15">
+                                <ToggleButton.Content>
+                                    <md:PackIcon Kind="AlarmOff" Width="60" Height="60"/>
+                                </ToggleButton.Content>
+                                <md:ToggleButtonAssist.OnContent>
+                                    <md:PackIcon Kind="AlarmOn" Width="60" Height="60"/>
+                                </md:ToggleButtonAssist.OnContent>
+                            </ToggleButton>
+                            <!--Время на партию-->
+                            <StackPanel Grid.Row="1" Grid.Column="1" VerticalAlignment="Center" Margin="20 15">
+                                <TextBlock FontSize="18" IsEnabled="{Binding ElementName=TBTime, Path=IsChecked}"
+                                   Text="{Binding ElementName=SMinute, Path=Value, StringFormat=Минут на партию: {0}}"/>
+                                <Slider Minimum="1" Maximum="180" Value="15" IsEnabled="{Binding ElementName=TBTime, Path=IsChecked}"
+                                x:Name="SMinute" Style="{StaticResource MaterialDesignDiscreteSlider}"/>
+                            </StackPanel>
+                            <!--Время после хода-->
+                            <StackPanel Grid.Row="1" Grid.Column="2" VerticalAlignment="Center" Margin="20 15">
+                                <TextBlock FontSize="18" IsEnabled="{Binding ElementName=TBTime, Path=IsChecked}"
+                                   Text="{Binding ElementName=SSecond, Path=Value, StringFormat=Добавление секунд на ход: {0}}"/>
+                                <Slider Minimum="0" Maximum="180" Value="15" IsEnabled="{Binding ElementName=TBTime, Path=IsChecked}"
+                                x:Name="SSecond" Style="{StaticResource MaterialDesignDiscreteSlider}"/>
+                            </StackPanel>
+                            <!--Барьер-->
+                            <Rectangle Grid.Row="1" Grid.ColumnSpan="3" Height="3" VerticalAlignment="Bottom" Fill="{DynamicResource PrimaryHueMidBrush}"/>
+                        </Grid>
+                        <!--Сеть-->
+                        <Grid x:Name="GNet" Grid.Row="1" IsEnabled="False">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="auto"/>
+                                <RowDefinition/>
+                            </Grid.RowDefinitions>
+                            <!--Надпись-->
+                            <TextBlock Grid.Row="0" Margin="10" Text="Игра по сети" HorizontalAlignment="Center" FontSize="25" VerticalAlignment="Center" TextDecorations="Underline"/>
+                            <!--Подключение-->
+                            <Grid Grid.Row="1">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition/>
+                                </Grid.ColumnDefinitions>
+                                <!--Кнопки подключения-->
+                                <Grid Grid.Column="0" Margin="20 0">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="auto"/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                    </Grid.RowDefinitions>
+                                    <!--Надпись-->
+                                    <TextBlock Grid.Row="0" Margin="10" Text="Подключение к игре" HorizontalAlignment="Center" FontSize="21" VerticalAlignment="Center" TextDecorations="Underline"/>
+                                    <TextBox Grid.Row="1" x:Name="TBIP" FontSize="18" md:HintAssist.Hint="IP-Адрес" Style="{StaticResource MaterialDesignFloatingHintTextBox}" VerticalAlignment="Center"/>
+                                    <Button Grid.Row="2" x:Name="BClientConnect" FontSize="18" Content="Подключиться" Click="BClientConnect_Click"/>
+                                    <Button Grid.Row="3" x:Name="BClientDisconnect" FontSize="18" Content="Отключиться" Click="BClientDisconnect_Click"/>
+                                </Grid>
+                                <!--Отображение статуса подключения-->
+                                <Grid Grid.Column="1" Margin="20 0">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="auto"/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                    </Grid.RowDefinitions>
+                                    <!--Надпись-->
+                                    <TextBlock Grid.Row="0" Margin="10" Text="Состояние подключения" HorizontalAlignment="Center" FontSize="21" VerticalAlignment="Center" TextDecorations="Underline"/>
+                                    <!--Статус подключения-->
+                                    <Grid Grid.Row="1">
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition/>
+                                            <RowDefinition Height="auto"/>
+                                        </Grid.RowDefinitions>
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition/>
+                                            <ColumnDefinition/>
+                                            <ColumnDefinition/>
+                                        </Grid.ColumnDefinitions>
+                                        <!--Комп-->
+                                        <Button Grid.Row="0" Grid.Column="0" Padding="0" Style="{DynamicResource MaterialDesignFlatButton}" Height="auto">
+                                            <md:PackIcon x:Name="PIConnection" Kind="NetworkOutline" Foreground="DarkRed" Height="auto" Width="auto"/>
+                                        </Button>
+                                        <!--Связь-->
+                                        <ProgressBar Grid.Row="0" Grid.Column="1" x:Name="PBConnection" IsIndeterminate="False" Height="10"/>
+                                        <!--Чужой компьютер-->
+                                        <Button Grid.Row="0" Grid.Column="2" Padding="0" Style="{DynamicResource MaterialDesignFlatButton}" Height="auto">
+                                            <Grid>
+                                                <md:PackIcon Kind="NetworkOutline" Height="auto" Width="auto" Opacity="0.5"/>
+                                                <md:PackIcon Kind="QuestionMark" Height="auto" Width="auto"/>
+                                            </Grid>
+                                        </Button>
+                                        <!--Надпись-->
+                                        <TextBlock x:Name="TBIPStatus" Grid.Row="1" Grid.ColumnSpan="3" FontSize="18" Text="Связь: отсутствует" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0 10"/>
+                                    </Grid>
+                                    <!--Готовность-->
+                                    <Grid Grid.Row="2">
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition/>
+                                            <RowDefinition Height="auto"/>
+                                        </Grid.RowDefinitions>
+                                        <Button Grid.Row="0" Padding="0" Style="{DynamicResource MaterialDesignFlatButton}" Height="auto">
+                                            <md:PackIcon x:Name="PIReady" Kind="MarkerTick" Foreground="DarkRed" Height="auto" Width="auto"/>
+                                        </Button>
+                                        <!--Надпись-->
+                                        <TextBlock x:Name="TBIPReady" Grid.Row="1" Grid.ColumnSpan="3" FontSize="18" Text="К старту: не готов" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0 10"/>
+                                    </Grid>
+                                </Grid>
+                            </Grid>
+                        </Grid>
+                    </Grid>
+                    <!--Цвет фигур-->
+                    <Grid x:Name="GColor" Grid.Column="2" IsEnabled="False">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <!--Барьер-->
+                        <Rectangle Grid.RowSpan="4" Width="3" HorizontalAlignment="Left" Fill="{DynamicResource PrimaryHueMidBrush}"/>
+                        <!--Надпись-->
+                        <TextBlock x:Name="TBColor" Grid.Row="0" Margin="20 10" Text="Цвет фигур" HorizontalAlignment="Center" FontSize="25" VerticalAlignment="Center" TextDecorations="Underline"/>
+                        <!--Белый-->
+                        <Grid Grid.Row="1" Margin="10">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="auto"/>
+                                <RowDefinition/>
+                            </Grid.RowDefinitions>
+                            <TextBlock Grid.Row="0" Margin="10" Text="Белый" HorizontalAlignment="Center" FontSize="21"/>
+                            <Button Grid.Row="1" Tag="white" Padding="0" Style="{DynamicResource MaterialDesignFlatButton}" Height="auto" Click="BPickColor_Click">
+                                <md:PackIcon Kind="CircleOutline" Width="auto" Height="auto"/>
+                            </Button>
+                        </Grid>
+                        <!--Случайный-->
+                        <Grid Grid.Row="2" Margin="10">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="auto"/>
+                                <RowDefinition/>
+                            </Grid.RowDefinitions>
+                            <TextBlock Grid.Row="0" Margin="10" Text="Случайный" HorizontalAlignment="Center" FontSize="21"/>
+                            <Button Grid.Row="1" Tag="random" Padding="0" Style="{DynamicResource MaterialDesignFlatButton}" Height="auto" Click="BPickColor_Click">
+                                <md:PackIcon Kind="YinYang" Width="auto" Height="auto"/>
+                            </Button>
+                        </Grid>
+                        <!--Чёрный-->
+                        <Grid Grid.Row="3" Margin="10">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="auto"/>
+                                <RowDefinition/>
+                            </Grid.RowDefinitions>
+                            <TextBlock Grid.Row="0" Margin="10" Text="Чёрный" HorizontalAlignment="Center" FontSize="21"/>
+                            <Button Grid.Row="1" Tag="black" Padding="0" Style="{DynamicResource MaterialDesignFlatButton}" Height="auto" Click="BPickColor_Click">
+                                <md:PackIcon Kind="CircleSlice8" Width="auto" Height="auto"/>
+                            </Button>
+                        </Grid>
+                    </Grid>
+                </Grid>
+                <!--Активная кнопка-->
+                <Button Grid.Row="2" x:Name="BGo" Margin="25" FontSize="18" Content="Продолжить" Click="BGo_Click" Background="{DynamicResource SecondaryAccentBrush}" Foreground="{DynamicResource SecondaryAccentForegroundBrush}"/>
+            </Grid>
+            <!--Игра-->
+            <Grid x:Name="GGame" Visibility="Collapsed">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="300"/>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition Width="{Binding ElementName=GChess, Path=ActualHeight}"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <!--Игроки-->
+                <Grid x:Name="GPlayers" Grid.Column="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <Grid x:Name="GPlayerBlack" VerticalAlignment="Center" Grid.Row="0">
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                        </Grid.RowDefinitions>
+                        <Grid Grid.Row="0" Margin="15">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="auto"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="auto"/>
+                            </Grid.ColumnDefinitions>
+                            <Border Grid.Column="0" BorderThickness="2" BorderBrush="Black" CornerRadius="10" Width="64" Height="64">
+                                <Border.Background>
+                                    <ImageBrush x:Name="IBlackAvatar" Stretch="UniformToFill"/>
+                                </Border.Background>
+                            </Border>
+                            <TextBlock Grid.Column="1" x:Name="TBBlackLogin" Text="noname" VerticalAlignment="Center" FontSize="21" Margin="15" TextTrimming="CharacterEllipsis"/>
+                            <ProgressBar Grid.Column="2" x:Name="PBBlack" Style="{StaticResource MaterialDesignCircularProgressBar}" Value="0" IsIndeterminate="True" Width="32" Height="32" Foreground="{DynamicResource SecondaryAccentBrush}" Visibility="Hidden"/>
+                        </Grid>
+                        <TextBlock Grid.Row="1" x:Name="TBBlackRegion" Text="Регион: ???" FontSize="16" Margin="10" TextTrimming="CharacterEllipsis"/>
+                        <TextBlock Grid.Row="2" x:Name="TBBlackRating" Text="Рейтинг: ???" FontSize="16" Margin="10" TextTrimming="CharacterEllipsis"/>
+                        <TextBlock Grid.Row="3" x:Name="TBBlackGames" Text="Игр: ???" FontSize="16" Margin="10" TextTrimming="CharacterEllipsis"/>
+                    </Grid>
+                    <TextBlock Text="VS" FontFamily="Chiller" FontSize="75" HorizontalAlignment="Center" Grid.Row="1" Foreground="{DynamicResource SecondaryAccentBrush}"/>
+                    <Grid x:Name="GPlayerWhite" VerticalAlignment="Center" Grid.Row="2">
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                        </Grid.RowDefinitions>
+                        <Grid Grid.Row="0" Margin="15">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="auto"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="auto"/>
+                            </Grid.ColumnDefinitions>
+                            <Border Grid.Column="0" BorderThickness="2" BorderBrush="Black" CornerRadius="10" Width="64" Height="64">
+                                <Border.Background>
+                                    <ImageBrush x:Name="IWhiteAvatar" Stretch="UniformToFill"/>
+                                </Border.Background>
+                            </Border>
+                            <TextBlock Grid.Column="1" x:Name="TBWhiteLogin" Text="noname" VerticalAlignment="Center" FontSize="21" Margin="15" TextTrimming="CharacterEllipsis"/>
+                            <ProgressBar Grid.Column="2" x:Name="PBWhite" Style="{StaticResource MaterialDesignCircularProgressBar}" Value="0" IsIndeterminate="True" Width="32" Height="32" Foreground="{DynamicResource SecondaryAccentBrush}" Visibility="Hidden"/>
+                        </Grid>
+                        <TextBlock Grid.Row="1" x:Name="TBWhiteRegion" Text="Регион: ???" FontSize="16" Margin="10" TextTrimming="CharacterEllipsis"/>
+                        <TextBlock Grid.Row="2" x:Name="TBWhiteRating" Text="Рейтинг: ???" FontSize="16" Margin="10" TextTrimming="CharacterEllipsis"/>
+                        <TextBlock Grid.Row="3" x:Name="TBWhiteGames" Text="Игр: ???" FontSize="16" Margin="10" TextTrimming="CharacterEllipsis"/>
+                    </Grid>
+                </Grid>
+                <!--Превращение и опции-->
+                <Grid x:Name="GPromoteOptions" Grid.Column="1" Background="{DynamicResource PrimaryHueLightBrush}">
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Button IsEnabled="False" Margin="15" x:Name="BQ" Height="auto" Width="auto" Padding="0" Grid.Row="0" Style="{StaticResource MaterialDesignFlatButton}" Click="BGeneratePromotionMove_Click">
+                        <Image Source="{DynamicResource wq}"/>
+                    </Button>
+                    <Button IsEnabled="{Binding ElementName=BQ, Path=IsEnabled}" Margin="15" x:Name="BR" Height="auto" Width="auto" Padding="0" Grid.Row="1" Style="{StaticResource MaterialDesignFlatButton}" Click="BGeneratePromotionMove_Click">
+                        <Image Source="{DynamicResource wr}"/>
+                    </Button>
+                    <Button IsEnabled="{Binding ElementName=BQ, Path=IsEnabled}" Margin="15" x:Name="BB" Height="auto" Width="auto" Padding="0" Grid.Row="2" Style="{StaticResource MaterialDesignFlatButton}" Click="BGeneratePromotionMove_Click">
+                        <Image Source="{DynamicResource wb}"/>
+                    </Button>
+                    <Button IsEnabled="{Binding ElementName=BQ, Path=IsEnabled}" Margin="15" x:Name="BN" Height="auto" Width="auto" Padding="0" Grid.Row="3" Style="{StaticResource MaterialDesignFlatButton}" Click="BGeneratePromotionMove_Click">
+                        <Image Source="{DynamicResource wn}"/>
+                    </Button>
+                    <Button IsEnabled="{Binding ElementName=BQ, Path=IsEnabled}" Margin="15" x:Name="BC" Height="auto" Width="auto" Padding="0" Grid.Row="4" Style="{StaticResource MaterialDesignFlatButton}" Click="BGeneratePromotionMove_Click">
+                        <md:PackIcon Kind="Cancel" Height="auto" Width="auto" Foreground="Crimson"/>
+                    </Button>
+                </Grid>
+                <!--Игровое поле-->
+                <Grid x:Name="GChess" Grid.Column="2">
+                    <!--Шахматная доска-->
+                    <Grid x:Name="GBoard" Grid.Row="1" Margin="25"/>
+                </Grid>
+                <!--Статистика-->
+                <Grid x:Name="GStats" Grid.Column="3" Margin="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="auto"/>
+                    </Grid.RowDefinitions>
+                    <!--Счёт съеденных белых фигур-->
+                    <Grid Grid.Row="0" Margin="10 10 10 0">
+                        <StackPanel Orientation="Horizontal" VerticalAlignment="Bottom">
+                            <!--Королева-->
+                            <StackPanel Margin="5">
+                                <Border Grid.Row="2" Padding="0" BorderBrush="{DynamicResource MaterialDesignBody}" CornerRadius="30"
+                                        Width="30" Height="30" Background="{DynamicResource SecondaryAccentBrush}" BorderThickness="2">
+                                    <TextBlock x:Name="LWQ" Text="0" FontSize="17" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="{DynamicResource SecondaryAccentForegroundBrush}"/>
+                                </Border>
+                                <md:PackIcon Kind="ChessQueen" Width="50" Height="50" Foreground="WhiteSmoke" Background="{DynamicResource SecondaryAccentBrush}" BorderThickness="2" BorderBrush="{DynamicResource MaterialDesignBody}" Margin="0 5 0 0"/>
+                            </StackPanel>
+                            <!--Ладья-->
+                            <StackPanel Margin="5">
+                                <Border Grid.Row="2" Padding="0" BorderBrush="{DynamicResource MaterialDesignBody}" CornerRadius="30"
+                                        Width="30" Height="30" Background="{DynamicResource SecondaryAccentBrush}" BorderThickness="2">
+                                    <TextBlock x:Name="LWR" Text="0" FontSize="17" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="{DynamicResource SecondaryAccentForegroundBrush}"/>
+                                </Border>
+                                <md:PackIcon Kind="ChessRook" Width="50" Height="50" Foreground="WhiteSmoke" Background="{DynamicResource SecondaryAccentBrush}" BorderThickness="2" BorderBrush="{DynamicResource MaterialDesignBody}" Margin="0 5 0 0"/>
+                            </StackPanel>
+                            <!--Слон-->
+                            <StackPanel Margin="5">
+                                <Border Grid.Row="2" Padding="0" BorderBrush="{DynamicResource MaterialDesignBody}" CornerRadius="30"
+                                        Width="30" Height="30" Background="{DynamicResource SecondaryAccentBrush}" BorderThickness="2">
+                                    <TextBlock x:Name="LWB" Text="0" FontSize="17" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="{DynamicResource SecondaryAccentForegroundBrush}"/>
+                                </Border>
+                                <md:PackIcon Kind="ChessBishop" Width="50" Height="50" Foreground="WhiteSmoke" Background="{DynamicResource SecondaryAccentBrush}" BorderThickness="2" BorderBrush="{DynamicResource MaterialDesignBody}" Margin="0 5 0 0"/>
+                            </StackPanel>
+                            <!--Конь-->
+                            <StackPanel Margin="5">
+                                <Border Grid.Row="2" Padding="0" BorderBrush="{DynamicResource MaterialDesignBody}" CornerRadius="30"
+                                        Width="30" Height="30" Background="{DynamicResource SecondaryAccentBrush}" BorderThickness="2">
+                                    <TextBlock x:Name="LWN" Text="0" FontSize="17" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="{DynamicResource SecondaryAccentForegroundBrush}"/>
+                                </Border>
+                                <md:PackIcon Kind="ChessKnight" Width="50" Height="50" Foreground="WhiteSmoke" Background="{DynamicResource SecondaryAccentBrush}" BorderThickness="2" BorderBrush="{DynamicResource MaterialDesignBody}" Margin="0 5 0 0"/>
+                            </StackPanel>
+                            <!--Пешка-->
+                            <StackPanel Margin="5">
+                                <Border Grid.Row="2" Padding="0" BorderBrush="{DynamicResource MaterialDesignBody}" CornerRadius="30"
+                                        Width="30" Height="30" Background="{DynamicResource SecondaryAccentBrush}" BorderThickness="2">
+                                    <TextBlock x:Name="LWP" Text="0" FontSize="17" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="{DynamicResource SecondaryAccentForegroundBrush}"/>
+                                </Border>
+                                <md:PackIcon Kind="ChessPawn" Width="50" Height="50" Foreground="WhiteSmoke" Background="{DynamicResource SecondaryAccentBrush}" BorderThickness="2" BorderBrush="{DynamicResource MaterialDesignBody}" Margin="0 5 0 0"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </Grid>
+                    <!--Таблица ходов-->
+                    <Grid Grid.Row="1" Margin="10 25 25 25">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="auto"/>
+                        </Grid.RowDefinitions>
+                        <TextBlock FontSize="30" Grid.Row="0" HorizontalAlignment="Left" Foreground="{DynamicResource SecondaryAccentBrush}">
+                            <TextBlock x:Name="TBBM" Text="--"/>:<TextBlock x:Name="TBBS" Text="--"/>
+                        </TextBlock>
+                        <DataGrid x:Name="DGMoves" Grid.Row="1" CanUserReorderColumns="False" CanUserSortColumns="False" CanUserResizeColumns="False" CanUserResizeRows="False" IsReadOnly="True" ItemsSource="{Binding ChessTurn}" AutoGenerateColumns="False" HorizontalAlignment="Left" Background="{DynamicResource PrimaryHueLightBrush}" SelectionMode="Single">
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Binding="{Binding TurnNumber}" Foreground="{DynamicResource PrimaryHueLightForegroundBrush}">
+                                    <DataGridTextColumn.Header>
+                                        <TextBlock Text="Номер хода" FontSize="14" TextTrimming="CharacterEllipsis" Foreground="{DynamicResource PrimaryHueLightForegroundBrush}"/>
+                                    </DataGridTextColumn.Header>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Binding="{Binding White}" Foreground="{DynamicResource PrimaryHueLightForegroundBrush}">
+                                    <DataGridTextColumn.Header>
+                                        <TextBlock Text="Белые" FontSize="14" TextTrimming="CharacterEllipsis" Foreground="{DynamicResource PrimaryHueLightForegroundBrush}"/>
+                                    </DataGridTextColumn.Header>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Binding="{Binding Black}" Foreground="{DynamicResource PrimaryHueLightForegroundBrush}">
+                                    <DataGridTextColumn.Header>
+                                        <TextBlock Text="Чёрные" FontSize="14" TextTrimming="CharacterEllipsis" Foreground="{DynamicResource PrimaryHueLightForegroundBrush}"/>
+                                    </DataGridTextColumn.Header>
+                                </DataGridTextColumn>
+                            </DataGrid.Columns>
+                        </DataGrid>
+                        <TextBlock FontSize="30" Grid.Row="2" HorizontalAlignment="Left" Foreground="{DynamicResource SecondaryAccentBrush}">
+                            <TextBlock x:Name="TBWM" Text="--"/>:<TextBlock x:Name="TBWS" Text="--"/>
+                        </TextBlock>
+                    </Grid>
+                    <!--Счёт съеденных чёрных фигур-->
+                    <Grid Grid.Row="2" Margin="10 0 10 10">
+                        <StackPanel Orientation="Horizontal" VerticalAlignment="Top">
+                            <!--Королева-->
+                            <StackPanel Margin="5">
+                                <Border Grid.Row="2" Padding="0" BorderBrush="{DynamicResource MaterialDesignBody}" CornerRadius="30"
+                                        Width="30" Height="30" Background="{DynamicResource SecondaryAccentBrush}" BorderThickness="2">
+                                    <TextBlock x:Name="LBQ" Text="0" FontSize="17" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="{DynamicResource SecondaryAccentForegroundBrush}"/>
+                                </Border>
+                                <md:PackIcon Kind="ChessQueen" Width="50" Height="50" Foreground="Black" Background="{DynamicResource SecondaryAccentBrush}" BorderThickness="2" BorderBrush="{DynamicResource MaterialDesignBody}" Margin="0 5 0 0"/>
+                            </StackPanel>
+                            <!--Ладья-->
+                            <StackPanel Margin="5">
+                                <Border Grid.Row="2" Padding="0" BorderBrush="{DynamicResource MaterialDesignBody}" CornerRadius="30"
+                                        Width="30" Height="30" Background="{DynamicResource SecondaryAccentBrush}" BorderThickness="2">
+                                    <TextBlock x:Name="LBR" Text="0" FontSize="17" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="{DynamicResource SecondaryAccentForegroundBrush}"/>
+                                </Border>
+                                <md:PackIcon Kind="ChessRook" Width="50" Height="50" Foreground="Black" Background="{DynamicResource SecondaryAccentBrush}" BorderThickness="2" BorderBrush="{DynamicResource MaterialDesignBody}" Margin="0 5 0 0"/>
+                            </StackPanel>
+                            <!--Слон-->
+                            <StackPanel Margin="5">
+                                <Border Grid.Row="2" Padding="0" BorderBrush="{DynamicResource MaterialDesignBody}" CornerRadius="30"
+                                        Width="30" Height="30" Background="{DynamicResource SecondaryAccentBrush}" BorderThickness="2">
+                                    <TextBlock x:Name="LBB" Text="0" FontSize="17" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="{DynamicResource SecondaryAccentForegroundBrush}"/>
+                                </Border>
+                                <md:PackIcon Kind="ChessBishop" Width="50" Height="50" Foreground="Black" Background="{DynamicResource SecondaryAccentBrush}" BorderThickness="2" BorderBrush="{DynamicResource MaterialDesignBody}" Margin="0 5 0 0"/>
+                            </StackPanel>
+                            <!--Конь-->
+                            <StackPanel Margin="5">
+                                <Border Grid.Row="2" Padding="0" BorderBrush="{DynamicResource MaterialDesignBody}" CornerRadius="30"
+                                        Width="30" Height="30" Background="{DynamicResource SecondaryAccentBrush}" BorderThickness="2">
+                                    <TextBlock x:Name="LBN" Text="0" FontSize="17" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="{DynamicResource SecondaryAccentForegroundBrush}"/>
+                                </Border>
+                                <md:PackIcon Kind="ChessKnight" Width="50" Height="50" Foreground="Black" Background="{DynamicResource SecondaryAccentBrush}" BorderThickness="2" BorderBrush="{DynamicResource MaterialDesignBody}" Margin="0 5 0 0"/>
+                            </StackPanel>
+                            <!--Пешка-->
+                            <StackPanel Margin="5">
+                                <Border Grid.Row="2" Padding="0" BorderBrush="{DynamicResource MaterialDesignBody}" CornerRadius="30"
+                                        Width="30" Height="30" Background="{DynamicResource SecondaryAccentBrush}" BorderThickness="2">
+                                    <TextBlock x:Name="LBP" Text="0" FontSize="17" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="{DynamicResource SecondaryAccentForegroundBrush}"/>
+                                </Border>
+                                <md:PackIcon Kind="ChessPawn" Width="50" Height="50" Foreground="Black" Background="{DynamicResource SecondaryAccentBrush}" BorderThickness="2" BorderBrush="{DynamicResource MaterialDesignBody}" Margin="0 5 0 0"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </Grid>
+                </Grid>
+            </Grid>
+        </Grid>
+        <!--Всплывашка-->
+        <md:Snackbar Grid.Row="2" x:Name="InfoBar" MessageQueue="{md:MessageQueue}"/>
+    </Grid>
+</UserControl>

@@ -1,0 +1,24 @@
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\ChessServer\bin\Release\config.txt
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\ChessServer\bin\Release\ChessServer.exe.config
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\ChessServer\bin\Release\ChessServer.exe
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\ChessServer\bin\Release\ChessServer.pdb
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\ChessServer\obj\Release\ChessServer.csproj.CoreCompileInputs.cache
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\ChessServer\obj\Release\ChessServer.exe
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\ChessServer\obj\Release\ChessServer.pdb
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\ChessServer\obj\Release\ChessServer.csprojAssemblyReference.cache
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\ChessServer\bin\Release\config.txt
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\ChessServer\bin\Release\ChessServer.exe.config
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\ChessServer\bin\Release\ChessServer.exe
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\ChessServer\bin\Release\ChessServer.pdb
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\ChessServer\obj\Release\ChessServer.csprojAssemblyReference.cache
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\ChessServer\obj\Release\ChessServer.csproj.CoreCompileInputs.cache
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\ChessServer\obj\Release\ChessServer.exe
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\ChessServer\obj\Release\ChessServer.pdb
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\ChessServer\bin\Release\config.txt
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\ChessServer\bin\Release\ChessServer.exe.config
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\ChessServer\bin\Release\ChessServer.exe
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\ChessServer\bin\Release\ChessServer.pdb
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\ChessServer\obj\Release\ChessServer.csprojAssemblyReference.cache
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\ChessServer\obj\Release\ChessServer.csproj.CoreCompileInputs.cache
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\ChessServer\obj\Release\ChessServer.exe
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\ChessServer\obj\Release\ChessServer.pdb

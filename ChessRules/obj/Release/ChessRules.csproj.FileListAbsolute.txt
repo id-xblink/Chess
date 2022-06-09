@@ -1,0 +1,17 @@
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\ChessRules\bin\Release\ChessRules.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\ChessRules\bin\Release\ChessRules.pdb
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\ChessRules\obj\Release\ChessRules.csproj.CoreCompileInputs.cache
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\ChessRules\obj\Release\ChessRules.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\ChessRules\obj\Release\ChessRules.pdb
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\ChessRules\bin\Release\ChessRules.dll
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\ChessRules\bin\Release\ChessRules.pdb
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\ChessRules\obj\Release\ChessRules.csprojAssemblyReference.cache
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\ChessRules\obj\Release\ChessRules.csproj.CoreCompileInputs.cache
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\ChessRules\obj\Release\ChessRules.dll
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\ChessRules\obj\Release\ChessRules.pdb
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\ChessRules\bin\Release\ChessRules.dll
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\ChessRules\bin\Release\ChessRules.pdb
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\ChessRules\obj\Release\ChessRules.csprojAssemblyReference.cache
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\ChessRules\obj\Release\ChessRules.csproj.CoreCompileInputs.cache
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\ChessRules\obj\Release\ChessRules.dll
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\ChessRules\obj\Release\ChessRules.pdb

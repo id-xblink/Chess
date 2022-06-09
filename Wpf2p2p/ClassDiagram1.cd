@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Wpf2p2p.App" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wpf2p2p.ChangeFigures" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>ChangeFigures.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wpf2p2p.CheckerboardUC" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAIAAgAAAAAAQAAAEAAgACIAACAAQgAAAAAAA=</HashCode>
+      <FileName>CheckerboardUC.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Wpf2p2p.ChessTurn" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEgAAAAAAAAgAAAgAAAAAABAAAEAAAAAAAAAAAAAg=</HashCode>
+      <FileName>ChessTurn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wpf2p2p.ControlUC" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAIAAACAAgAAAAgAAAAAAAIAAAAAAII=</HashCode>
+      <FileName>ControlUC.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Wpf2p2p.DashboardW" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEEAAAkAAAAAAAAABAAAggAAAAAAAADBAAggAAAIAA=</HashCode>
+      <FileName>DashboardW.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Wpf2p2p.DBConnection" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACDAAGEIQwAQBAJAoAhBIAiQAAIgQQgEIAAAFAAAQAA=</HashCode>
+      <FileName>DBConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wpf2p2p.EnterW" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAIAAAAAgAAAEAAAACAAASAAACAAA=</HashCode>
+      <FileName>EnterW.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Wpf2p2p.GamePreview" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAgAAAAAQAAAUAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>GamePreview.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wpf2p2p.GameStats" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>qFASgECIRAUCIQAlIBSEAAWCAQgAACAAAUaAQEgEARI=</HashCode>
+      <FileName>GameStats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wpf2p2p.GameUC" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAEwKAAAcBAiMRWRCKAEoQkAogDIjkGGoEABhQDMJAI=</HashCode>
+      <FileName>GameUC.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Wpf2p2p.HomeUC" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HomeUC.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Wpf2p2p.Leader" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAgAAgAAQAAAAAAAgAAAAAAAAQCAAAAAA=</HashCode>
+      <FileName>Leader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wpf2p2p.LeaderUC" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAABAYAAAAgCAAgAAAAAQEAAAAAACCAAIAAgAAAAA=</HashCode>
+      <FileName>LeaderUC.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Wpf2p2p.LostFigures" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LostFigures.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wpf2p2p.OverviewUC" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiIQIAENAAAwAEAAAAAABAEBQgAAAACCAEAIQAAAAAA=</HashCode>
+      <FileName>OverviewUC.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Wpf2p2p.PieceUC" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAoAAAAAAgAAAAAAAAAAEAAgAEAAACAAAgAgAAAAA=</HashCode>
+      <FileName>PieceUC.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Wpf2p2p.ProfileUC" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAEUgCEAAAAAAAAAAAAACEACAAIgAAAAhAA=</HashCode>
+      <FileName>ProfileUC.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Wpf2p2p.Region" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Region.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wpf2p2p.RegistrationCheck" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgCAAACAAAgAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>RegistrationCheck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wpf2p2p.StatisticsUC" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAQgBAABAAAACBCAAAUAAAIIQACgJgBQABAAAA=</HashCode>
+      <FileName>StatisticsUC.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Wpf2p2p.User" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAgAAAAAQAAAAAAAAAAAAAAAAQCEAAAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wpf2p2p.Properties.Resources" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wpf2p2p.Properties.Settings" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Wpf2p2p.FigureName" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAQBAAAQBCAAAAAAAAAEMAwgAAAAAAQBCAABCAI=</HashCode>
+      <FileName>FigureName.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,1317 @@
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\bin\Debug\Wpf2p2p.exe.config
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\bin\Debug\Wpf2p2p.exe
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\bin\Debug\Wpf2p2p.pdb
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\bin\Debug\Google.Protobuf.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\bin\Debug\MaterialDesignColors.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\bin\Debug\MySql.Data.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\bin\Debug\Renci.SshNet.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\bin\Debug\System.Buffers.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\bin\Debug\System.Memory.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\bin\Debug\Zstandard.Net.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\bin\Debug\Google.Protobuf.pdb
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\bin\Debug\Google.Protobuf.xml
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\bin\Debug\MySql.Data.xml
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\bin\Debug\Renci.SshNet.xml
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\bin\Debug\System.Buffers.xml
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\bin\Debug\System.Memory.xml
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\obj\Debug\ControlUC.g.cs
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\obj\Debug\EnterW.g.cs
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\obj\Debug\App.g.cs
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p_Content.g.cs
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p_MarkupCompile.cache
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p_MarkupCompile.lref
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\obj\Debug\App.baml
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\obj\Debug\ControlUC.baml
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\obj\Debug\EnterW.baml
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p.g.resources
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p.Properties.Resources.resources
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p.csproj.GenerateResource.cache
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p.csproj.CoreCompileInputs.cache
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p.csproj.CopyComplete
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p.exe
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p.pdb
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\obj\Debug\DashboardW.g.cs
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\obj\Debug\DashboardW.baml
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\obj\Debug\GameUC.g.cs
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\obj\Debug\LeaderUC.g.cs
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\obj\Debug\OverviewUC.g.cs
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\obj\Debug\ProfileW.g.cs
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\obj\Debug\StatisticsUC.g.cs
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\obj\Debug\GameUC.baml
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\obj\Debug\LeaderUC.baml
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\obj\Debug\OverviewUC.baml
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\obj\Debug\ProfileW.baml
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\obj\Debug\StatisticsUC.baml
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p.csprojAssemblyReference.cache
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\bin\Debug\BespokeFusion.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\bin\Debug\MahApps.Metro.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\bin\Debug\MahApps.Metro.pdb
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\bin\Debug\MahApps.Metro.xml
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\bin\Debug\ControlzEx.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\Wpf2p2p\Wpf2p2p\bin\Debug\ControlzEx.pdb
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\Wpf2p2p.exe.config
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\Wpf2p2p.exe
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\Wpf2p2p.pdb
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\BespokeFusion.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\ControlzEx.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\Google.Protobuf.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\MahApps.Metro.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\MaterialDesignColors.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\MySql.Data.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\Renci.SshNet.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\System.Buffers.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\System.Memory.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\Zstandard.Net.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\ControlzEx.pdb
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\Google.Protobuf.pdb
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\Google.Protobuf.xml
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\MahApps.Metro.pdb
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\MahApps.Metro.xml
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\MySql.Data.xml
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\Renci.SshNet.xml
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\System.Buffers.xml
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\System.Memory.xml
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\obj\Debug\ControlUC.g.cs
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\obj\Debug\DashboardW.g.cs
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\obj\Debug\EnterW.g.cs
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\obj\Debug\GameUC.g.cs
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\obj\Debug\LeaderUC.g.cs
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\obj\Debug\OverviewUC.g.cs
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\obj\Debug\StatisticsUC.g.cs
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\obj\Debug\App.g.cs
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p_MarkupCompile.cache
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p_MarkupCompile.lref
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\obj\Debug\App.baml
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\obj\Debug\ControlUC.baml
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\obj\Debug\DashboardW.baml
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\obj\Debug\EnterW.baml
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\obj\Debug\GameUC.baml
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\obj\Debug\LeaderUC.baml
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\obj\Debug\OverviewUC.baml
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\obj\Debug\StatisticsUC.baml
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p.g.resources
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p.Properties.Resources.resources
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p.csproj.GenerateResource.cache
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p.csproj.CoreCompileInputs.cache
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p.csproj.CopyComplete
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p.exe
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p.pdb
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\obj\Debug\HomeUC.g.cs
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\obj\Debug\HomeUC.baml
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\ChessRules.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\ChessRules.pdb
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p.csprojAssemblyReference.cache
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\obj\Debug\CheckerboardUC.g.cs
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\obj\Debug\CheckerboardUC.baml
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\obj\Debug\PieceUC.g.cs
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\obj\Debug\PieceUC.baml
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\obj\Debug\ProfileUC.g.cs
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\obj\Debug\ProfileUC.baml
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\ControlzEx.xml
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\obj\Debug\ChessD.baml
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p_Content.g.cs
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\other\background.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\bot\easy.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\bot\hard.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\bot\medium.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\bot\passive.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\bot\unfair.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\other\unnamed.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\alpha\bb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\alpha\bk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\alpha\bn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\alpha\bp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\alpha\bq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\alpha\br.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\alpha\wb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\alpha\wk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\alpha\wn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\alpha\wp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\alpha\wq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\alpha\wr.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\california\bb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\california\bk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\california\bn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\california\bp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\california\bq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\california\br.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\california\wb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\california\wk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\california\wn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\california\wp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\california\wq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\california\wr.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cardinal\bb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cardinal\bk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cardinal\bn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cardinal\bp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cardinal\bq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cardinal\br.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cardinal\wb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cardinal\wk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cardinal\wn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cardinal\wp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cardinal\wq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cardinal\wr.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cburnett\bb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cburnett\bk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cburnett\bn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cburnett\bp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cburnett\bq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cburnett\br.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cburnett\wb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cburnett\wk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cburnett\wn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cburnett\wp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cburnett\wq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cburnett\wr.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chess7\bb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chess7\bk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chess7\bn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chess7\bp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chess7\bq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chess7\br.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chess7\wb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chess7\wk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chess7\wn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chess7\wp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chess7\wq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chess7\wr.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chessnut\bb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chessnut\bk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chessnut\bn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chessnut\bp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chessnut\bq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chessnut\br.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chessnut\wb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chessnut\wk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chessnut\wn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chessnut\wp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chessnut\wq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chessnut\wr.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\companion\bb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\companion\bk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\companion\bn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\companion\bp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\companion\bq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\companion\br.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\companion\wb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\companion\wk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\companion\wn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\companion\wp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\companion\wq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\companion\wr.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\dubrovny\bb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\dubrovny\bk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\dubrovny\bn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\dubrovny\bp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\dubrovny\bq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\dubrovny\br.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\dubrovny\wb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\dubrovny\wk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\dubrovny\wn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\dubrovny\wp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\dubrovny\wq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\dubrovny\wr.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fantasy\bb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fantasy\bk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fantasy\bn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fantasy\bp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fantasy\bq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fantasy\br.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fantasy\wb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fantasy\wk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fantasy\wn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fantasy\wp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fantasy\wq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fantasy\wr.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fresca\bb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fresca\bk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fresca\bn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fresca\bp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fresca\bq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fresca\br.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fresca\wb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fresca\wk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fresca\wn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fresca\wp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fresca\wq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fresca\wr.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\gioco\bb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\gioco\bk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\gioco\bn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\gioco\bp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\gioco\bq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\gioco\br.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\gioco\wb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\gioco\wk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\gioco\wn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\gioco\wp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\gioco\wq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\gioco\wr.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\icpieces\bb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\icpieces\bk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\icpieces\bn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\icpieces\bp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\icpieces\bq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\icpieces\br.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\icpieces\wb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\icpieces\wk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\icpieces\wn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\icpieces\wp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\icpieces\wq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\icpieces\wr.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\kosal\bb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\kosal\bk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\kosal\bn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\kosal\bp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\kosal\bq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\kosal\br.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\kosal\wb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\kosal\wk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\kosal\wn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\kosal\wp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\kosal\wq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\kosal\wr.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\leipzig\bb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\leipzig\bk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\leipzig\bn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\leipzig\bp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\leipzig\bq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\leipzig\br.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\leipzig\wb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\leipzig\wk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\leipzig\wn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\leipzig\wp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\leipzig\wq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\leipzig\wr.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\letter\bb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\letter\bk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\letter\bn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\letter\bp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\letter\bq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\letter\br.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\letter\wb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\letter\wk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\letter\wn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\letter\wp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\letter\wq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\letter\wr.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\libra\bb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\libra\bk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\libra\bn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\libra\bp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\libra\bq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\libra\br.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\libra\wb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\libra\wk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\libra\wn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\libra\wp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\libra\wq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\libra\wr.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\maestro\bb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\maestro\bk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\maestro\bn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\maestro\bp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\maestro\bq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\maestro\br.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\maestro\wb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\maestro\wk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\maestro\wn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\maestro\wp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\maestro\wq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\maestro\wr.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\merida\bb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\merida\bk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\merida\bn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\merida\bp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\merida\bq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\merida\br.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\merida\wb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\merida\wk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\merida\wn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\merida\wp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\merida\wq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\merida\wr.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\mono\bb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\mono\bk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\mono\bn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\mono\bp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\mono\bq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\mono\br.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\mono\wb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\mono\wk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\mono\wn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\mono\wp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\mono\wq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\mono\wr.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pirouetti\bb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pirouetti\bk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pirouetti\bn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pirouetti\bp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pirouetti\bq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pirouetti\br.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pirouetti\wb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pirouetti\wk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pirouetti\wn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pirouetti\wp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pirouetti\wq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pirouetti\wr.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pixel\bb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pixel\bk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pixel\bn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pixel\bp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pixel\bq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pixel\br.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pixel\wb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pixel\wk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pixel\wn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pixel\wp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pixel\wq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pixel\wr.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\reillycraig\bb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\reillycraig\bk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\reillycraig\bn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\reillycraig\bp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\reillycraig\bq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\reillycraig\br.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\reillycraig\wb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\reillycraig\wk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\reillycraig\wn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\reillycraig\wp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\reillycraig\wq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\reillycraig\wr.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\riohacha\bb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\riohacha\bk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\riohacha\bn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\riohacha\bp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\riohacha\bq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\riohacha\br.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\riohacha\wb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\riohacha\wk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\riohacha\wn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\riohacha\wp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\riohacha\wq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\riohacha\wr.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\shapes\bb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\shapes\bk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\shapes\bn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\shapes\bp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\shapes\bq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\shapes\br.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\shapes\wb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\shapes\wk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\shapes\wn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\shapes\wp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\shapes\wq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\shapes\wr.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\spatial\bb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\spatial\bk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\spatial\bn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\spatial\bp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\spatial\bq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\spatial\br.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\spatial\wb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\spatial\wk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\spatial\wn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\spatial\wp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\spatial\wq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\spatial\wr.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\staunty\bb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\staunty\bk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\staunty\bn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\staunty\bp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\staunty\bq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\staunty\br.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\staunty\wb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\staunty\wk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\staunty\wn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\staunty\wp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\staunty\wq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\staunty\wr.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\tatiana\bb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\tatiana\bk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\tatiana\bn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\tatiana\bp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\tatiana\bq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\tatiana\br.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\tatiana\wb.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\tatiana\wk.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\tatiana\wn.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\tatiana\wp.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\tatiana\wq.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\tatiana\wr.png
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\sound\click.wav
+C:\Users\Инвокер\Desktop\Преддипломная практика\2p2p\Wpf2p2p\Wpf2p2p\bin\Debug\assets\sound\move.wav
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\other\background.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\bot\easy.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\bot\hard.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\bot\medium.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\bot\passive.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\bot\unfair.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\other\unnamed.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\alpha\bb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\alpha\bk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\alpha\bn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\alpha\bp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\alpha\bq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\alpha\br.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\alpha\wb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\alpha\wk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\alpha\wn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\alpha\wp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\alpha\wq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\alpha\wr.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\california\bb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\california\bk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\california\bn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\california\bp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\california\bq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\california\br.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\california\wb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\california\wk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\california\wn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\california\wp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\california\wq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\california\wr.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cardinal\bb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cardinal\bk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cardinal\bn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cardinal\bp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cardinal\bq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cardinal\br.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cardinal\wb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cardinal\wk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cardinal\wn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cardinal\wp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cardinal\wq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cardinal\wr.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cburnett\bb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cburnett\bk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cburnett\bn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cburnett\bp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cburnett\bq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cburnett\br.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cburnett\wb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cburnett\wk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cburnett\wn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cburnett\wp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cburnett\wq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cburnett\wr.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chess7\bb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chess7\bk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chess7\bn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chess7\bp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chess7\bq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chess7\br.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chess7\wb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chess7\wk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chess7\wn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chess7\wp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chess7\wq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chess7\wr.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chessnut\bb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chessnut\bk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chessnut\bn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chessnut\bp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chessnut\bq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chessnut\br.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chessnut\wb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chessnut\wk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chessnut\wn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chessnut\wp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chessnut\wq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chessnut\wr.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\companion\bb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\companion\bk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\companion\bn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\companion\bp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\companion\bq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\companion\br.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\companion\wb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\companion\wk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\companion\wn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\companion\wp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\companion\wq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\companion\wr.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\dubrovny\bb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\dubrovny\bk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\dubrovny\bn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\dubrovny\bp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\dubrovny\bq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\dubrovny\br.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\dubrovny\wb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\dubrovny\wk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\dubrovny\wn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\dubrovny\wp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\dubrovny\wq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\dubrovny\wr.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fantasy\bb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fantasy\bk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fantasy\bn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fantasy\bp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fantasy\bq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fantasy\br.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fantasy\wb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fantasy\wk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fantasy\wn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fantasy\wp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fantasy\wq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fantasy\wr.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fresca\bb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fresca\bk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fresca\bn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fresca\bp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fresca\bq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fresca\br.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fresca\wb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fresca\wk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fresca\wn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fresca\wp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fresca\wq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fresca\wr.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\gioco\bb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\gioco\bk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\gioco\bn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\gioco\bp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\gioco\bq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\gioco\br.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\gioco\wb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\gioco\wk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\gioco\wn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\gioco\wp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\gioco\wq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\gioco\wr.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\icpieces\bb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\icpieces\bk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\icpieces\bn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\icpieces\bp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\icpieces\bq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\icpieces\br.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\icpieces\wb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\icpieces\wk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\icpieces\wn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\icpieces\wp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\icpieces\wq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\icpieces\wr.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\kosal\bb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\kosal\bk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\kosal\bn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\kosal\bp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\kosal\bq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\kosal\br.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\kosal\wb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\kosal\wk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\kosal\wn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\kosal\wp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\kosal\wq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\kosal\wr.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\leipzig\bb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\leipzig\bk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\leipzig\bn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\leipzig\bp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\leipzig\bq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\leipzig\br.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\leipzig\wb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\leipzig\wk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\leipzig\wn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\leipzig\wp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\leipzig\wq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\leipzig\wr.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\letter\bb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\letter\bk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\letter\bn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\letter\bp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\letter\bq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\letter\br.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\letter\wb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\letter\wk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\letter\wn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\letter\wp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\letter\wq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\letter\wr.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\libra\bb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\libra\bk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\libra\bn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\libra\bp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\libra\bq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\libra\br.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\libra\wb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\libra\wk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\libra\wn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\libra\wp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\libra\wq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\libra\wr.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\maestro\bb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\maestro\bk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\maestro\bn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\maestro\bp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\maestro\bq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\maestro\br.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\maestro\wb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\maestro\wk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\maestro\wn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\maestro\wp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\maestro\wq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\maestro\wr.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\merida\bb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\merida\bk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\merida\bn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\merida\bp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\merida\bq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\merida\br.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\merida\wb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\merida\wk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\merida\wn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\merida\wp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\merida\wq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\merida\wr.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\mono\bb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\mono\bk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\mono\bn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\mono\bp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\mono\bq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\mono\br.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\mono\wb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\mono\wk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\mono\wn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\mono\wp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\mono\wq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\mono\wr.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pirouetti\bb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pirouetti\bk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pirouetti\bn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pirouetti\bp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pirouetti\bq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pirouetti\br.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pirouetti\wb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pirouetti\wk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pirouetti\wn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pirouetti\wp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pirouetti\wq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pirouetti\wr.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pixel\bb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pixel\bk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pixel\bn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pixel\bp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pixel\bq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pixel\br.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pixel\wb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pixel\wk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pixel\wn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pixel\wp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pixel\wq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pixel\wr.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\reillycraig\bb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\reillycraig\bk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\reillycraig\bn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\reillycraig\bp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\reillycraig\bq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\reillycraig\br.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\reillycraig\wb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\reillycraig\wk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\reillycraig\wn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\reillycraig\wp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\reillycraig\wq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\reillycraig\wr.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\riohacha\bb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\riohacha\bk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\riohacha\bn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\riohacha\bp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\riohacha\bq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\riohacha\br.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\riohacha\wb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\riohacha\wk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\riohacha\wn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\riohacha\wp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\riohacha\wq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\riohacha\wr.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\shapes\bb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\shapes\bk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\shapes\bn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\shapes\bp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\shapes\bq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\shapes\br.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\shapes\wb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\shapes\wk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\shapes\wn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\shapes\wp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\shapes\wq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\shapes\wr.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\spatial\bb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\spatial\bk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\spatial\bn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\spatial\bp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\spatial\bq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\spatial\br.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\spatial\wb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\spatial\wk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\spatial\wn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\spatial\wp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\spatial\wq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\spatial\wr.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\staunty\bb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\staunty\bk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\staunty\bn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\staunty\bp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\staunty\bq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\staunty\br.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\staunty\wb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\staunty\wk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\staunty\wn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\staunty\wp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\staunty\wq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\staunty\wr.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\tatiana\bb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\tatiana\bk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\tatiana\bn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\tatiana\bp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\tatiana\bq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\tatiana\br.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\tatiana\wb.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\tatiana\wk.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\tatiana\wn.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\tatiana\wp.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\tatiana\wq.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\tatiana\wr.png
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\sound\click.wav
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\sound\move.wav
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\Wpf2p2p.exe.config
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\Wpf2p2p.exe
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\Wpf2p2p.pdb
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\BespokeFusion.dll
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\ChessRules.dll
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\ControlzEx.dll
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\Dragablz.dll
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\Google.Protobuf.dll
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\MahApps.Metro.dll
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\MaterialDesignColors.dll
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\MySql.Data.dll
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\Renci.SshNet.dll
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\System.Buffers.dll
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\System.Memory.dll
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\Zstandard.Net.dll
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\ChessRules.pdb
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\ControlzEx.pdb
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\ControlzEx.xml
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\Dragablz.pdb
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\Dragablz.xml
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\Google.Protobuf.pdb
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\Google.Protobuf.xml
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\MahApps.Metro.pdb
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\MahApps.Metro.xml
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\MySql.Data.xml
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\Renci.SshNet.xml
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\System.Buffers.xml
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\System.Memory.xml
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p.csprojAssemblyReference.cache
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\CheckerboardUC.baml
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\ChessD.baml
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\ControlUC.baml
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\GameUC.baml
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\HomeUC.baml
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\LeaderUC.baml
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\OverviewUC.baml
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\PieceUC.baml
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\ProfileUC.baml
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\StatisticsUC.baml
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\App.baml
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\CheckerboardUC.g.cs
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\ControlUC.g.cs
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\DashboardW.g.cs
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\EnterW.g.cs
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\GameUC.g.cs
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\HomeUC.g.cs
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\LeaderUC.g.cs
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\OverviewUC.g.cs
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\PieceUC.g.cs
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\ProfileUC.g.cs
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\StatisticsUC.g.cs
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\App.g.cs
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p_Content.g.cs
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p_MarkupCompile.cache
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p_MarkupCompile.lref
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\DashboardW.baml
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\EnterW.baml
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p.g.resources
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p.Properties.Resources.resources
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p.csproj.GenerateResource.cache
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p.csproj.CoreCompileInputs.cache
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p.csproj.CopyComplete
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p.exe
+C:\Users\Maus-2001\Desktop\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p.pdb
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\other\background.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\bot\easy.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\bot\hard.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\bot\medium.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\bot\passive.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\bot\unfair.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\other\unnamed.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\alpha\bb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\alpha\bk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\alpha\bn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\alpha\bp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\alpha\bq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\alpha\br.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\alpha\wb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\alpha\wk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\alpha\wn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\alpha\wp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\alpha\wq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\alpha\wr.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\california\bb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\california\bk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\california\bn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\california\bp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\california\bq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\california\br.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\california\wb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\california\wk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\california\wn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\california\wp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\california\wq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\california\wr.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cardinal\bb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cardinal\bk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cardinal\bn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cardinal\bp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cardinal\bq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cardinal\br.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cardinal\wb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cardinal\wk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cardinal\wn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cardinal\wp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cardinal\wq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cardinal\wr.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cburnett\bb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cburnett\bk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cburnett\bn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cburnett\bp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cburnett\bq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cburnett\br.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cburnett\wb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cburnett\wk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cburnett\wn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cburnett\wp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cburnett\wq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\cburnett\wr.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chess7\bb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chess7\bk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chess7\bn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chess7\bp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chess7\bq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chess7\br.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chess7\wb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chess7\wk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chess7\wn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chess7\wp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chess7\wq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chess7\wr.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chessnut\bb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chessnut\bk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chessnut\bn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chessnut\bp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chessnut\bq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chessnut\br.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chessnut\wb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chessnut\wk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chessnut\wn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chessnut\wp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chessnut\wq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\chessnut\wr.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\companion\bb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\companion\bk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\companion\bn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\companion\bp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\companion\bq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\companion\br.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\companion\wb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\companion\wk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\companion\wn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\companion\wp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\companion\wq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\companion\wr.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\dubrovny\bb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\dubrovny\bk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\dubrovny\bn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\dubrovny\bp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\dubrovny\bq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\dubrovny\br.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\dubrovny\wb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\dubrovny\wk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\dubrovny\wn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\dubrovny\wp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\dubrovny\wq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\dubrovny\wr.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fantasy\bb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fantasy\bk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fantasy\bn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fantasy\bp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fantasy\bq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fantasy\br.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fantasy\wb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fantasy\wk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fantasy\wn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fantasy\wp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fantasy\wq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fantasy\wr.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fresca\bb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fresca\bk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fresca\bn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fresca\bp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fresca\bq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fresca\br.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fresca\wb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fresca\wk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fresca\wn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fresca\wp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fresca\wq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\fresca\wr.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\gioco\bb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\gioco\bk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\gioco\bn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\gioco\bp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\gioco\bq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\gioco\br.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\gioco\wb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\gioco\wk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\gioco\wn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\gioco\wp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\gioco\wq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\gioco\wr.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\icpieces\bb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\icpieces\bk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\icpieces\bn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\icpieces\bp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\icpieces\bq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\icpieces\br.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\icpieces\wb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\icpieces\wk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\icpieces\wn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\icpieces\wp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\icpieces\wq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\icpieces\wr.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\kosal\bb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\kosal\bk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\kosal\bn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\kosal\bp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\kosal\bq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\kosal\br.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\kosal\wb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\kosal\wk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\kosal\wn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\kosal\wp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\kosal\wq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\kosal\wr.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\leipzig\bb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\leipzig\bk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\leipzig\bn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\leipzig\bp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\leipzig\bq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\leipzig\br.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\leipzig\wb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\leipzig\wk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\leipzig\wn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\leipzig\wp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\leipzig\wq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\leipzig\wr.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\letter\bb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\letter\bk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\letter\bn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\letter\bp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\letter\bq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\letter\br.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\letter\wb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\letter\wk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\letter\wn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\letter\wp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\letter\wq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\letter\wr.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\libra\bb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\libra\bk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\libra\bn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\libra\bp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\libra\bq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\libra\br.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\libra\wb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\libra\wk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\libra\wn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\libra\wp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\libra\wq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\libra\wr.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\maestro\bb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\maestro\bk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\maestro\bn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\maestro\bp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\maestro\bq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\maestro\br.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\maestro\wb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\maestro\wk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\maestro\wn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\maestro\wp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\maestro\wq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\maestro\wr.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\merida\bb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\merida\bk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\merida\bn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\merida\bp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\merida\bq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\merida\br.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\merida\wb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\merida\wk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\merida\wn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\merida\wp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\merida\wq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\merida\wr.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\mono\bb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\mono\bk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\mono\bn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\mono\bp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\mono\bq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\mono\br.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\mono\wb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\mono\wk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\mono\wn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\mono\wp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\mono\wq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\mono\wr.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pirouetti\bb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pirouetti\bk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pirouetti\bn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pirouetti\bp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pirouetti\bq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pirouetti\br.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pirouetti\wb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pirouetti\wk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pirouetti\wn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pirouetti\wp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pirouetti\wq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pirouetti\wr.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pixel\bb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pixel\bk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pixel\bn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pixel\bp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pixel\bq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pixel\br.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pixel\wb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pixel\wk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pixel\wn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pixel\wp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pixel\wq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\pixel\wr.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\reillycraig\bb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\reillycraig\bk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\reillycraig\bn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\reillycraig\bp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\reillycraig\bq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\reillycraig\br.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\reillycraig\wb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\reillycraig\wk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\reillycraig\wn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\reillycraig\wp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\reillycraig\wq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\reillycraig\wr.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\riohacha\bb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\riohacha\bk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\riohacha\bn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\riohacha\bp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\riohacha\bq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\riohacha\br.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\riohacha\wb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\riohacha\wk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\riohacha\wn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\riohacha\wp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\riohacha\wq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\riohacha\wr.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\shapes\bb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\shapes\bk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\shapes\bn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\shapes\bp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\shapes\bq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\shapes\br.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\shapes\wb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\shapes\wk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\shapes\wn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\shapes\wp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\shapes\wq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\shapes\wr.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\spatial\bb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\spatial\bk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\spatial\bn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\spatial\bp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\spatial\bq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\spatial\br.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\spatial\wb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\spatial\wk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\spatial\wn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\spatial\wp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\spatial\wq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\spatial\wr.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\staunty\bb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\staunty\bk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\staunty\bn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\staunty\bp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\staunty\bq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\staunty\br.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\staunty\wb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\staunty\wk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\staunty\wn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\staunty\wp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\staunty\wq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\staunty\wr.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\tatiana\bb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\tatiana\bk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\tatiana\bn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\tatiana\bp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\tatiana\bq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\tatiana\br.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\tatiana\wb.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\tatiana\wk.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\tatiana\wn.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\tatiana\wp.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\tatiana\wq.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\piece\tatiana\wr.png
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\sound\click.wav
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\assets\sound\move.wav
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\Wpf2p2p.exe.config
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\Wpf2p2p.exe
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\Wpf2p2p.pdb
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\BespokeFusion.dll
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\ChessRules.dll
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\ControlzEx.dll
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\Dragablz.dll
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\Google.Protobuf.dll
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\MahApps.Metro.dll
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\MaterialDesignColors.dll
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\MySql.Data.dll
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\Renci.SshNet.dll
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\System.Buffers.dll
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\System.Memory.dll
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\Zstandard.Net.dll
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\ChessRules.pdb
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\ControlzEx.pdb
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\ControlzEx.xml
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\Dragablz.pdb
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\Dragablz.xml
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\Google.Protobuf.pdb
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\Google.Protobuf.xml
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\MahApps.Metro.pdb
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\MahApps.Metro.xml
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\MySql.Data.xml
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\Renci.SshNet.xml
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\System.Buffers.xml
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\System.Memory.xml
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p.csprojAssemblyReference.cache
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\CheckerboardUC.baml
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\ChessD.baml
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\ControlUC.baml
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\GameUC.baml
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\HomeUC.baml
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\LeaderUC.baml
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\OverviewUC.baml
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\PieceUC.baml
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\ProfileUC.baml
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\StatisticsUC.baml
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\App.baml
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\CheckerboardUC.g.cs
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\ControlUC.g.cs
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\DashboardW.g.cs
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\EnterW.g.cs
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\GameUC.g.cs
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\HomeUC.g.cs
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\LeaderUC.g.cs
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\OverviewUC.g.cs
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\PieceUC.g.cs
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\ProfileUC.g.cs
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\StatisticsUC.g.cs
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\App.g.cs
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p_Content.g.cs
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p_MarkupCompile.cache
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p_MarkupCompile.lref
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\DashboardW.baml
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\EnterW.baml
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p.g.resources
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p.Properties.Resources.resources
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p.csproj.GenerateResource.cache
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p.csproj.CoreCompileInputs.cache
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p.csproj.CopyComplete
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p.exe
+C:\Users\Maus-2001\Desktop\Всё\Дипломная работа\Диплом\Проект\Wpf2p2p\Wpf2p2p\obj\Debug\Wpf2p2p.pdb

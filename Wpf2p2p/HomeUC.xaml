@@ -1,0 +1,47 @@
+﻿<UserControl x:Class="Wpf2p2p.HomeUC"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             d:DesignWidth="1280" d:DesignHeight="720"
+             TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+             Background="{DynamicResource MaterialDesignPaper}"
+             FontFamily="pack://application:,,,/MaterialDesignThemes.Wpf;component/Resources/Roboto/#Roboto">
+    <Grid Background="{DynamicResource PrimaryHueMidBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <!--Надпись-->
+        <TextBlock Grid.Row="0" Text="Домашняя страница" Margin="15" FontSize="30" HorizontalAlignment="Center" Foreground="{DynamicResource PrimaryHueMidForegroundBrush}"/>
+        <Grid Grid.Row="1" Background="{DynamicResource MaterialDesignPaper}">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+            <TextBlock Grid.Row="0" Text="2PLAYERS2PIECES" FontFamily="Chiller" FontSize="75" HorizontalAlignment="Center" Foreground="{DynamicResource SecondaryAccentBrush}" Margin="20" TextTrimming="CharacterEllipsis"/>
+            <Grid Grid.Row="1">
+                <StackPanel Margin="20">
+                    <TextBlock FontSize="24" TextWrapping="Wrap" TextTrimming="CharacterEllipsis">
+                        2player2pieces (2p2p) - шахматное игровое приложение, способное не только предоставить шахматные партии на одном компьютере, против ботов или по сети, оно также способно:
+                    </TextBlock>
+                    <StackPanel Margin="0 20">
+                        <TextBlock FontSize="24" Margin="5" Text="- Пересматривать шахматные партии по каждому ходу;" TextWrapping="Wrap" TextTrimming="CharacterEllipsis"/>
+                        <TextBlock FontSize="24" Margin="5" Text="- Собирать и предоставлять детальную статистику по играм;" TextWrapping="Wrap" TextTrimming="CharacterEllipsis"/>
+                        <TextBlock FontSize="24" Margin="5" Text="- Вести рейтинг игрока, чтобы запечатлить его в таблице лидеров;" TextWrapping="Wrap" TextTrimming="CharacterEllipsis"/>
+                        <TextBlock FontSize="24" Margin="5" Text="- Изменить свой интерфейс под вкус пользователя." TextWrapping="Wrap" TextTrimming="CharacterEllipsis"/>
+                    </StackPanel>
+                    <TextBlock Margin="0 20" FontSize="24" TextWrapping="Wrap" TextTrimming="CharacterEllipsis">
+                        Сможете ли вы одолеть всех ботов, своего друга и сетевых противников?
+                    </TextBlock>
+                    <TextBlock FontSize="24" TextWrapping="Wrap" TextTrimming="CharacterEllipsis">
+                        Попробуйте и проанализируйте, насколько успешно вы достигаете цель на основе статистики по играм!
+                    </TextBlock>
+                </StackPanel>
+            </Grid>
+            <Button Grid.Row="2" Content="В игру!" FontSize="32" Height="auto" HorizontalAlignment="Center" Margin="20" Click="Button_Click"/>
+        </Grid>
+    </Grid>
+</UserControl>

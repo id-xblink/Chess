@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf2p2p", "Wpf2p2p\Wpf2p2p.csproj", "{C1A3348D-3A0E-409B-8FE6-AE4266AC8E3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessRules", "ChessRules\ChessRules.csproj", "{0A2F9921-5F75-4A5A-B7CD-0673EF394030}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessServer", "ChessServer\ChessServer.csproj", "{D9DE0F71-7C05-4692-9F2F-7CF313C82B72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1A3348D-3A0E-409B-8FE6-AE4266AC8E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1A3348D-3A0E-409B-8FE6-AE4266AC8E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1A3348D-3A0E-409B-8FE6-AE4266AC8E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1A3348D-3A0E-409B-8FE6-AE4266AC8E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A2F9921-5F75-4A5A-B7CD-0673EF394030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A2F9921-5F75-4A5A-B7CD-0673EF394030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A2F9921-5F75-4A5A-B7CD-0673EF394030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A2F9921-5F75-4A5A-B7CD-0673EF394030}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9DE0F71-7C05-4692-9F2F-7CF313C82B72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9DE0F71-7C05-4692-9F2F-7CF313C82B72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9DE0F71-7C05-4692-9F2F-7CF313C82B72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9DE0F71-7C05-4692-9F2F-7CF313C82B72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B976EC7-51F0-4205-B565-82B17138385C}
+	EndGlobalSection
+EndGlobal

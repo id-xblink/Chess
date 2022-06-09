@@ -1,0 +1,157 @@
+﻿<UserControl x:Class="Wpf2p2p.CheckerboardUC"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:md="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             d:DesignWidth="1280" d:DesignHeight="720"
+             TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+             Background="{DynamicResource MaterialDesignPaper}"
+             FontFamily="pack://application:,,,/MaterialDesignThemes.Wpf;component/Resources/Roboto/#Roboto">
+    <Grid Background="{DynamicResource PrimaryHueMidBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <!--Надпись-->
+        <TextBlock Grid.Row="0" Text="Настройка шахматной доски" Margin="15" FontSize="30" HorizontalAlignment="Center" Foreground="{DynamicResource PrimaryHueMidForegroundBrush}"/>
+        <Grid Grid.Row="1" Background="{DynamicResource MaterialDesignPaper}">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="{Binding ElementName=GChess, Path=ActualHeight}"/>
+            </Grid.ColumnDefinitions>
+            <!--Настройки-->
+            <Grid Grid.Column="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Expander Grid.Column="0" ExpandDirection="Right">
+                    <Expander.Header>
+                        <TextBlock RenderTransformOrigin=".5,.5" Text="Выбор шахматных клеток и маркеров" FontSize="16">
+                            <TextBlock.LayoutTransform>
+                                <RotateTransform Angle="90" />
+                            </TextBlock.LayoutTransform>
+                        </TextBlock>
+                    </Expander.Header>
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <!--Белая клетка-->
+                        <Grid Grid.Row="0" Margin="10">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="auto"/>
+                                <RowDefinition/>
+                            </Grid.RowDefinitions>
+                            <!--Надпись-->
+                            <TextBlock Grid.Row="0" Grid.ColumnSpan="2" Text="Белая клетка" Margin="5" FontSize="20" HorizontalAlignment="Center" TextDecorations="Underline"/>
+                            <Button Tag="White" Grid.Row="1" Padding="0" Style="{DynamicResource MaterialDesignFlatButton}" Height="auto" Click="BChangeColor_Click" IsEnabled="{Binding ElementName=BSelectedIcon, Path=Tag}">
+                                <md:PackIcon Kind="SquareOutline" Width="auto" Height="auto"/>
+                            </Button>
+                        </Grid>
+                        <!--Чёрная клетка-->
+                        <Grid Grid.Row="1" Margin="10">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="auto"/>
+                                <RowDefinition/>
+                            </Grid.RowDefinitions>
+                            <!--Надпись-->
+                            <TextBlock Grid.Row="0" Grid.ColumnSpan="2" Text="Чёрная клетка" Margin="5" FontSize="20" HorizontalAlignment="Center" TextDecorations="Underline"/>
+                            <Button Tag="Black" Grid.Row="1" Padding="0" Style="{DynamicResource MaterialDesignFlatButton}" Height="auto" Click="BChangeColor_Click" IsEnabled="{Binding ElementName=BSelectedIcon, Path=Tag}">
+                                <md:PackIcon Kind="Square" Width="auto" Height="auto"/>
+                            </Button>
+                        </Grid>
+                        <!--Передвижение-->
+                        <Grid Grid.Row="2" Margin="10">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="auto"/>
+                                <RowDefinition/>
+                            </Grid.RowDefinitions>
+                            <!--Надпись-->
+                            <TextBlock Grid.Row="0" Grid.ColumnSpan="2" Text="Движение" Margin="5" FontSize="20" HorizontalAlignment="Center" TextDecorations="Underline"/>
+                            <Button Tag="Move" Grid.Row="1" Padding="0" Style="{DynamicResource MaterialDesignFlatButton}" Height="auto" Click="BChangeColor_Click" IsEnabled="{Binding ElementName=BSelectedIcon, Path=Tag}">
+                                <md:PackIcon Kind="ArrowAll" Width="auto" Height="auto"/>
+                            </Button>
+                        </Grid>
+                        <!--Атака-->
+                        <Grid Grid.Row="3" Margin="10">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="auto"/>
+                                <RowDefinition/>
+                            </Grid.RowDefinitions>
+                            <!--Надпись-->
+                            <TextBlock Grid.Row="0" Grid.ColumnSpan="2" Text="Атака" Margin="5" FontSize="20" HorizontalAlignment="Center" TextDecorations="Underline"/>
+                            <Button Tag="Attack" Grid.Row="1" Padding="0" Style="{DynamicResource MaterialDesignFlatButton}" Height="auto" Click="BChangeColor_Click" IsEnabled="{Binding ElementName=BSelectedIcon, Path=Tag}">
+                                <md:PackIcon Kind="Sword" Width="auto" Height="auto"/>
+                            </Button>
+                        </Grid>
+                        <!--Шах-->
+                        <Grid Grid.Row="4" Margin="10">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="auto"/>
+                                <RowDefinition/>
+                            </Grid.RowDefinitions>
+                            <!--Надпись-->
+                            <TextBlock Grid.Row="0" Grid.ColumnSpan="2" Text="Шах" Margin="5" FontSize="20" HorizontalAlignment="Center" TextDecorations="Underline"/>
+                            <Button Tag="Check" Grid.Row="1" Padding="0" Style="{DynamicResource MaterialDesignFlatButton}" Height="auto" Click="BChangeColor_Click" IsEnabled="{Binding ElementName=BSelectedIcon, Path=Tag}">
+                                <md:PackIcon Kind="ShieldOutline" Width="auto" Height="auto"/>
+                            </Button>
+                        </Grid>
+                    </Grid>
+                </Expander>
+                <!--Палитра цветов-->
+                <Grid Grid.Column="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                    </Grid.RowDefinitions>
+                    <!--Надпись-->
+                    <TextBlock Grid.Row="0" Grid.ColumnSpan="2" Text="Настройка цвета элемента" Margin="5" FontSize="24" HorizontalAlignment="Center" TextDecorations="Underline"/>
+                    <!--Цветовая панель-->
+                    <md:ColorPicker Grid.Row="1" x:Name="CPElement" Grid.Column="0" Margin="20 0" Color="#808080"/>
+                    <!--Выбранный элемент-->
+                    <Grid Grid.Row="2" Margin="5">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <!--Надпись-->
+                        <TextBlock Grid.Row="0" Grid.ColumnSpan="2" Text="Выбранный" Margin="5 5 5 0" FontSize="20" HorizontalAlignment="Center" TextWrapping="Wrap"/>
+                        <TextBlock Grid.Row="1" Grid.ColumnSpan="2" Text="элемент" Margin="5 0 5 5" FontSize="20" HorizontalAlignment="Center" TextWrapping="Wrap"/>
+                        <Button x:Name="BSelectedIcon" Grid.Row="2" Padding="0" Style="{DynamicResource MaterialDesignFlatButton}" Width="100" Height="100" IsEnabled="False" Tag="True">
+                            <Button.Foreground>
+                                <SolidColorBrush Color="{Binding ElementName=CPElement, Path=Color}"/>
+                            </Button.Foreground>
+                            <md:PackIcon x:Name="PISelected" Kind="Close" Width="auto" Height="auto"/>
+                        </Button>
+                    </Grid>
+                    <!--Кнопки-->
+                    <Grid Grid.Row="3">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <Button x:Name="BCancel" Grid.Column="0" Margin="10" Content="Отмена" Click="BCancel_Click" IsEnabled="{Binding ElementName=BSelectedIcon, Path=IsEnabled}"/>
+                        <Button x:Name="BSave" Grid.Column="1" Margin="10" Content="Сохранить" Click="BSave_Click" IsEnabled="{Binding ElementName=BSelectedIcon, Path=IsEnabled}"/>
+                    </Grid>
+                </Grid>
+            </Grid>
+            <!--Шахматная доска-->
+            <Grid Grid.Column="1" x:Name="GChess">
+                <!--Шахматная доска-->
+                <Grid x:Name="GBoard" Grid.Row="1" Margin="25"/>
+            </Grid>
+            <!--Всплывашка-->
+            <md:Snackbar Grid.Row="1" Grid.ColumnSpan="2" x:Name="InfoBar" MessageQueue="{md:MessageQueue}"/>
+        </Grid>
+    </Grid>
+</UserControl>

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ChessRules.Board" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACCABYAAKgAAAASAIAIAAgCAAAAICAgAAAgABAA=</HashCode>
+      <FileName>Board.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessRules.Chess" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAQABLgEAAACEAIAIAAAQAAAAAAYIAQQAAAABAA=</HashCode>
+      <FileName>Chess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessRules.ColorMethods" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Color.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessRules.EvaluationOnSquare" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAEABBIAAAABAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>EvaluationOnSquare.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessRules.FigureMethods" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Figure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessRules.FigureMoving" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAIAAAAAAAAUAAAAAAgAACAAAAAQABAAgAAAAAA=</HashCode>
+      <FileName>FigureMoving.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessRules.FigureOnSquare" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAIAA=</HashCode>
+      <FileName>FigureOnSquare.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessRules.Moves" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABICCQCAAACCAEAAAAgAACAAAQAAAAIACAQAAAEAA=</HashCode>
+      <FileName>Moves.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessRules.ValuableMove" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ValuableMove.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="ChessRules.Square" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAIAAAAAAAAAQAAAAAAAAAAABgAAAIAiA=</HashCode>
+      <FileName>Square.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="ChessRules.Color" Collapsed="true">
+    <Position X="2.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Color.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ChessRules.Figure" Collapsed="true">
+    <Position X="4" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQIAIIQAAAAAAAAAABAIAABAAEAAAIAAAAIAQAAQAAA=</HashCode>
+      <FileName>Figure.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

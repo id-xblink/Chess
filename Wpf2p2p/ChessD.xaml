@@ -1,0 +1,32 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <!--Игровые фигуры-->
+    <BitmapImage x:Key="bk" UriSource="assets/piece/cburnett/bk.png"/>
+    <BitmapImage x:Key="bq" UriSource="assets/piece/cburnett/bq.png"/>
+    <BitmapImage x:Key="br" UriSource="assets/piece/cburnett/br.png"/>
+    <BitmapImage x:Key="bb" UriSource="assets/piece/cburnett/bb.png"/>
+    <BitmapImage x:Key="bn" UriSource="assets/piece/cburnett/bn.png"/>
+    <BitmapImage x:Key="bp" UriSource="assets/piece/cburnett/bp.png"/>
+    <BitmapImage x:Key="wk" UriSource="assets/piece/cburnett/wk.png"/>
+    <BitmapImage x:Key="wq" UriSource="assets/piece/cburnett/wq.png"/>
+    <BitmapImage x:Key="wr" UriSource="assets/piece/cburnett/wr.png"/>
+    <BitmapImage x:Key="wb" UriSource="assets/piece/cburnett/wb.png"/>
+    <BitmapImage x:Key="wn" UriSource="assets/piece/cburnett/wn.png"/>
+    <BitmapImage x:Key="wp" UriSource="assets/piece/cburnett/wp.png"/>
+    <!--Общие картинки-->
+    <BitmapImage x:Key="Background" UriSource="assets/other/background.png"/>
+    <BitmapImage x:Key="Avatar" UriSource="assets/other/unnamed.png"/>
+    <!--Общие фигуры-->
+    <BitmapImage x:Key="dk" UriSource="assets/piece/cburnett/bk.png"/>
+    <BitmapImage x:Key="dq" UriSource="assets/piece/cburnett/bq.png"/>
+    <BitmapImage x:Key="dr" UriSource="assets/piece/cburnett/br.png"/>
+    <BitmapImage x:Key="db" UriSource="assets/piece/cburnett/bb.png"/>
+    <BitmapImage x:Key="dn" UriSource="assets/piece/cburnett/bn.png"/>
+    <BitmapImage x:Key="dp" UriSource="assets/piece/cburnett/bp.png"/>
+    <!--Цвета доски и маркеров-->
+    <SolidColorBrush x:Key="ws" Color="#FFF0D9B5"/>
+    <SolidColorBrush x:Key="bs" Color="#FF946f51"/>
+    <SolidColorBrush x:Key="ms" Color="#FF3BB000"/>
+    <SolidColorBrush x:Key="as" Color="#FFFFA600"/>
+    <SolidColorBrush x:Key="cs" Color="#FFC90000"/>
+</ResourceDictionary>

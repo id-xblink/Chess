@@ -1,0 +1,74 @@
+﻿<UserControl x:Class="Wpf2p2p.PieceUC"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:md="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             d:DesignWidth="1280" d:DesignHeight="720"
+             TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+             Background="{DynamicResource MaterialDesignPaper}"
+             FontFamily="pack://application:,,,/MaterialDesignThemes.Wpf;component/Resources/Roboto/#Roboto">
+    <Grid Background="{DynamicResource PrimaryHueMidBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <!--Надпись-->
+        <TextBlock Grid.Row="0" Text="Настройка шахматных фигур" Margin="15" FontSize="30" HorizontalAlignment="Center" Foreground="{DynamicResource PrimaryHueMidForegroundBrush}"/>
+        <!--Основное пространство-->
+        <Grid Grid.Row="1" Background="{DynamicResource MaterialDesignPaper}">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="{Binding ElementName=GChess, Path=ActualHeight}"/>
+            </Grid.ColumnDefinitions>
+            <!--Настройки-->
+            <Grid Grid.Column="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition/>
+                    <RowDefinition Height="auto"/>
+                </Grid.RowDefinitions>
+                <!--Надпись-->
+                <TextBlock Grid.Row="0" Text="Шахматные фигуры" Margin="15" FontSize="24" HorizontalAlignment="Center" TextDecorations="Underline"/>
+                <!--Выбор фигур-->
+                <ScrollViewer Grid.Row="1" Margin="20 0 20 20" Background="{DynamicResource PrimaryHueLightBrush}">
+                    <ItemsControl x:Name="LVWLost" ItemsSource="{Binding ChangeFigures}">
+                        <ItemsControl.ItemTemplate>
+                            <DataTemplate>
+                                <Border Margin="10" Width="90" Height="100">
+                                    <Grid>
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition Height="auto"/>
+                                            <RowDefinition Height="auto"/>
+                                        </Grid.RowDefinitions>
+                                        <TextBlock Grid.Row="0" Margin="0 0 0 5" Text="{Binding Name}" FontSize="20" TextTrimming="CharacterEllipsis" HorizontalAlignment="Center" Foreground="{DynamicResource PrimaryHueLightForegroundBrush}"/>
+                                        <Button Tag="{Binding Name}" Grid.Row="1" Width="70" Height="70" BorderBrush="{DynamicResource PrimaryHueDarkBrush}" Click="BChangeFigure_Click">
+                                            <Button.Background>
+                                                <ImageBrush ImageSource="{Binding Image}" Stretch="UniformToFill"/>
+                                            </Button.Background>
+                                        </Button>
+                                    </Grid>
+                                </Border>
+                            </DataTemplate>
+                        </ItemsControl.ItemTemplate>
+                        <ItemsControl.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <WrapPanel/>
+                            </ItemsPanelTemplate>
+                        </ItemsControl.ItemsPanel>
+                    </ItemsControl>
+                </ScrollViewer>
+                <!--Кнопки-->
+                <Button x:Name="BSave" Grid.Row="2" Margin="15" Content="Сохранить" Click="BSave_Click"/>
+            </Grid>
+            <!--Шахматная доска-->
+            <Grid Grid.Column="1" x:Name="GChess">
+                <!--Шахматная доска-->
+                <Grid x:Name="GBoard" Grid.Row="1" Margin="25"/>
+            </Grid>
+            <!--Всплывашка-->
+            <md:Snackbar Grid.Row="1" Grid.ColumnSpan="2" x:Name="InfoBar" MessageQueue="{md:MessageQueue}"/>
+        </Grid>
+    </Grid>
+</UserControl>
